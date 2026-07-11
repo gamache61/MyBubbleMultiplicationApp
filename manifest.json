@@ -1,5 +1,5 @@
 {
-  "name": "MyBubbleMultiplicationApp",
+  "name": "Bubble Multiplication",
   "short_name": "Bubble Multiplication",
   "description": "Pop the floating number bubbles in the right order to answer each sum!",
   "start_url": "./index.html",
@@ -10,25 +10,25 @@
   "theme_color": "#C0392B",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "icons/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "icon-512.png",
+      "src": "icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "icon-maskable-192.png",
+      "src": "icons/icon-maskable-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "icon-maskable-512.png",
+      "src": "icons/icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
@@ -36,13 +36,13 @@
   ],
   "screenshots": [
     {
-      "src": "screenshot1.png",
+      "src": "screenshots/screenshot1.png",
       "sizes": "1920x950",
       "type": "image/png",
       "form_factor": "wide"
     },
     {
-      "src": "screenshot2.png",
+      "src": "screenshots/screenshot2.png",
       "sizes": "1920x970",
       "type": "image/png",
       "form_factor": "wide"
